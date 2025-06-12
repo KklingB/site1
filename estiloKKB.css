@@ -1,0 +1,16 @@
+body {background-color: rgb(255, 225, 185);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;}
+.fundo {background-color:rgb(190, 252, 230)}
+.circle {width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:50px auto;
+}
+.image {  width: 100%;
+  height: 100%;
+  object-fit: cover;}
